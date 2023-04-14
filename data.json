@@ -22,7 +22,21 @@
     "icon": "🇯🇵",
     "title": "ETH Tokyo",
     "image": "https://storage.googleapis.com/ethglobal-api-production/event%2Feoapw%2Fimages%2F1675196667048_Frame%202.jpg",
-    "description": "ETH Tokyo - Onboarding thousands of developers into the Ethereum ecosystem",
+    "description": "ETH Tokyo - Onboarding thousands of developers into the Ethereum ecosystem.",
+    "tweets": {
+      "#eth-tokyeo": [
+        "1646306106971500549",
+        "1646183566982750208",
+        "1646096339464511488"
+      ],
+      "#sideevent": ["1646177154965688320", "1646197371624210450"]
+    }
+  },
+  "hunttown": {
+    "icon": "🏘️",
+    "title": "Hunt Town",
+    "image": "https://hunt.town/og-image-1200-800.png",
+    "description": "Hunt Town is a Web3 builders guild where builders come together to contribute to the expansion of Web3 culture and products.",
     "tweets": {
       "#eth-tokyeo": [
         "1646306106971500549",
