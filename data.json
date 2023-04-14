@@ -1,0 +1,21 @@
+{
+  "nft-nyc": {
+    "icon": "🗽",
+    "title": "NFT NYC",
+    "image": "https://blockworks-co.imgix.net/wp-content/uploads/2021/11/123241.png",
+    "description": "NFT NYC is an offline conference that brings together the most influential people in the NFT space to discuss the future of digital collectibles.",
+    "tweets": {
+      "#nft-nyc": [
+        "1646306106971500549",
+        "1646183566982750208",
+        "1646096339464511488"
+      ],
+      "#sideevent": ["1646177154965688320", "1646197371624210450"],
+      "#sideevent2": ["1646177154965688320", "1646197371624210450"],
+      "#sideevent3": ["1646177154965688320", "1646197371624210450"],
+      "#sideevent4": ["1646177154965688320", "1646197371624210450"],
+      "#sideevent5": ["1646177154965688320", "1646197371624210450"],
+      "#sideevent6": ["1646177154965688320", "1646197371624210450"]
+    }
+  }
+}
