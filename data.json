@@ -17,5 +17,18 @@
       "#sideevent5": ["1646177154965688320", "1646197371624210452"],
       "#sideevent6": ["1646177154965688320", "1646197371624210450"]
     }
+  },
+  "eth-tokyo": {
+    "icon": "🇯🇵",
+    "title": "ETH Tokyo",
+    "image": "https://storage.googleapis.com/ethglobal-api-production/event%2Feoapw%2Fimages%2F1675196667048_Frame%202.jpg",
+    "description": "ETH Tokyo - Onboarding thousands of developers into the Ethereum ecosystem",
+    "tweets": {
+      "#eth-tokyeo": [
+        "1646306106971500549",
+        "1646183566982750208",
+        "1646096339464511488"
+      ],
+      "#sideevent": ["1646177154965688320", "1646197371624210450"]
   }
 }
