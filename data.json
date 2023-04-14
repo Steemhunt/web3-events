@@ -1,5 +1,5 @@
 {
-  "nft-nyc": {
+  "nftnyc": {
     "icon": "🗽",
     "title": "NFT NYC",
     "image": "https://blockworks-co.imgix.net/wp-content/uploads/2021/11/123241.png",
@@ -18,7 +18,7 @@
       "#sideevent6": ["1646177154965688320", "1646197371624210450"]
     }
   },
-  "eth-tokyo": {
+  "ethtokyo": {
     "icon": "🇯🇵",
     "title": "ETH Tokyo",
     "image": "https://storage.googleapis.com/ethglobal-api-production/event%2Feoapw%2Fimages%2F1675196667048_Frame%202.jpg",
